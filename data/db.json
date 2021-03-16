@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae suscipit eveniet fugiat. Magni expedita quisquam sunt officiis. Reprehenderit, nisi sequiLorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae suscipit eveniet fugiat. Magni expedita quisquam sunt officiis. Reprehenderit, nisi sequi.",
+      "image": "https://images.unsplash.com/photo-1591554338378-6dcc422b8249?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "date": "3/16/2021",
+      "author": "Someone",
+      "id": 1
+    },
+    {
+      "title": "Welcome to the party",
+      "body": "Reprehenderit, nisi sequiLorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae susciLorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae suscipit eveniet fugiat. Magni expedita quisquam sunt officiis. Reprehenderit, nisi sequi.",
+      "image": "https://images.unsplash.com/photo-1591554338378-6dcc422b8249?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "date": "3/16/2021",
+      "author": "Somebody",
+      "id": 2
+    },
+    {
+      "title": "This is a great title",
+      "body": "Magni expedita quisquam suntLorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae suscipit eveniet fugiat. Magni expedita quisquam sunt officiis. Reprehenderit, nisi sequi.",
+      "image": "https://images.unsplash.com/photo-1591554338378-6dcc422b8249?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "date": "3/16/2021",
+      "author": "Someone else",
+      "id": 3
+    }
+  ]
+}
